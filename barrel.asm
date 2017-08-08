@@ -1,4 +1,4 @@
-;nasm barrel.asm -fbin -obarrel.com
+;yasm barrel.asm -fbin -obarrel.com
 ;dosbox ./barrel.com -exit
 
 ORG 100h     
